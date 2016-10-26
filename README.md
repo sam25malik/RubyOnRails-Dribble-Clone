@@ -1,2 +1,2 @@
-# RubyOnRails-Dribble-Clone
-This is a RubyonRails project
+# ObjectiveQuiz_Assng1
+Develop an Android Application which asks if a number is prime or not.
